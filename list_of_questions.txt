@@ -1,0 +1,37 @@
+Software Lab based on Operating Systems
+1. Usage of following commands: ls, pwd, tty, cat, who, who am I, rm, mkdir, rmdir,
+touch, cd.
+2. Usage of following commands: cal, cat(append), cat(concatenate), mv, cp, man,
+date.
+3. Usage of following commands: chmod, grep, tput (clear, highlight), bc.
+4. Write a shell script to display date in the mm/dd/yy format.
+5. Write a shell script to display the multiplication table any number.
+6. Write a shell script to find the factorial of a given number.
+7. Program to show the pyramid of special character “*”.
+8. Write a shell script to find the sum of digits of a given number.
+.
+10.Write a shell script to find the power of a given number.
+11.Write a shell script to check whether the number is Armstrong or not.
+12.Write a shell script to find the GCD (greatest common divisor) of two numbers.
+13.Write a shell script to check if the number entered at the command line is prime
+or not.
+14.  (modified)Create a file named users with the following data:
+kim 56
+albert 46
+kush 4
+roop 20
+kim 56
+rimi 4
+15. (modified)  Create a file named user_ids with email ids of 5 of your friends
+Write a shell script to accept a user id. Check the user id from list of email ids in
+user ids file. If not a valid user id , then display message -"Entered login name is
+invalid".
+16.Write a shell script to compare two files and if found equal asks the user to delete
+the duplicate file.
+17.Write a shell script to merge the contents of three files, sort the contents and then
+display them page by page.
+18.Write a shell script to check whether the file have all the permissions or not.
+19.Write a shell script to modify “cal” command to display calendars of the specified
+months.
+20. Write a shell script to modify “cal” command to display calendars of the specified
+range of months.
