@@ -1,0 +1,6 @@
+kim 56
+albert 46
+kush 4
+roop 20
+kim 56
+rimi 4
